@@ -50,5 +50,6 @@ public class Ejemplo021 {
         } while (bandera); // (bandera==true)
 
         System.out.printf("Listado de Notas\n%s\n", cadenaFinal);
+        
     }
 }
